@@ -9,6 +9,7 @@ My names is Rodrigo Zampieri Castilho, I'm a software developer since 2000 with 
 + Beam VM (Erlang, Elixir, ...)
 + JVM (Java, Clojure, ...)
 + Machine Learning
++ Emacs
 
 ** Links
 
