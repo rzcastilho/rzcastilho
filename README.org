@@ -1,1 +1,17 @@
-* Hi everyone :wave:
+* Hi there!
+
+My names is Rodrigo Zampieri Castilho, I'm a software developer since 2000 with bachelor degree in computer science in 2004.
+
+** Interests
+
++ Algorithms
++ Blockchain
++ Beam VM (Erlang, Elixir, ...)
++ JVM (Java, Clojure, ...)
++ Machine Learning
+
+** Links
+
++ [[https://medium.com/@rzcastilho][Medium]]
++ [[https://twitter.com/rzcastilho][Twitter]]
++ [[https://www.linkedin.com/in/rzcastilho/][Linkedin]]
