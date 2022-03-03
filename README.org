@@ -6,7 +6,7 @@ My names is Rodrigo Zampieri Castilho, I'm a software developer since 2000 with 
 
 + Algorithms
 + Blockchain
-+ Beam VM (Erlang, Elixir, ...)
++ BEAM (Erlang, Elixir, ...)
 + JVM (Java, Clojure, ...)
 + Machine Learning
 + Emacs
