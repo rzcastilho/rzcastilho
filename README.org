@@ -20,3 +20,4 @@ My names is Rodrigo Zampieri Castilho, I'm a software developer since 2000 with 
 + [[https://www.linkedin.com/in/rzcastilho/][Linkedin]]
 
 [[https://github-readme-stats.vercel.app/api?username=rzcastilho]]
+#+html: <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rzcastilho" /></p>
