@@ -19,5 +19,8 @@ My names is Rodrigo Zampieri Castilho, I'm a software developer since 2000 with 
 + [[https://twitter.com/rzcastilho][Twitter]]
 + [[https://www.linkedin.com/in/rzcastilho/][Linkedin]]
 
+#+ATTR_HTML: img:width 50%
+#+ATTR_HTML: img:margin auto
 [[https://github-readme-stats.vercel.app/api?username=rzcastilho]]
+
 #+html: <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rzcastilho" /></p>
